@@ -2,9 +2,9 @@
 # Sectyra
 
 <p align="center">
-<img src="images/sectyra.jpg"
-        alt="Fourth"
-        style="float: left; margin-right: 10px;" />
+  <img src="images/sectyra.png"
+       alt="Fourth"
+       style="float: left; margin-right: 10px; width: 200px; height: auto;" />
 </p>
 
 **Sectyra** es una herramienta diseñada para automatizar la ejecución de trabajos en entornos efímeros o en simulaciones de estos, como los Codespaces de GitHub. Permite ejecutar múltiples tareas en distintos Codespaces de forma secuencial.
