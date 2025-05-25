@@ -4,7 +4,7 @@
 <p align="center">
   <img src="images/sectyra.png"
        alt="Fourth"
-       style="float: left; margin-right: 10px; width: 150px; height: auto;" />
+       style="float: left; margin-right: 20px; width: 200px; height: auto;" />
 </p>
 
 **Sectyra** is a tool designed for automating job execution in ephemeral environments or their simulations, such as GitHub Codespaces. It allows you to run multiple tasks across different Codespaces sequentially.
