@@ -1,0 +1,1 @@
+0 * * * * root /bin/bash /home/codespace/codespace_data/keep_alive.sh 2>/home/codespace/error.log
