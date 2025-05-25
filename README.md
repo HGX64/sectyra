@@ -2,7 +2,7 @@
 # Sectyra
 
 <p align="center">
-<img src="images/sectyra.jpg"
+<img src="images/sectyra.png"
         alt="Fourth"
         style="float: left; margin-right: 10px;" />
 </p>
