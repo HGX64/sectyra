@@ -95,7 +95,7 @@ cp ~/.sectyra/codespace_data/.env.example ~/.sectyra/codespace_data/.env
 
 ### Editar `.env`
 
-```ruby
+```env
 # Cambiar esto
 GITHUB_USERNAME=""
 DOCKER_IMAGE=""
